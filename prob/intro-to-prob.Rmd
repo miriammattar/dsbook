@@ -6,3 +6,5 @@ Because knowing how to compute probabilities gives you an edge in games of chanc
 
 Probability theory is useful in many other contexts and, in particular, in areas that depend on data affected by chance in some way. All of the other chapters in this part build upon probability theory. Knowledge of probability is therefore indispensable for data science.
 
+first_card <- hands[1,]
+second_card <- hands[2,]
